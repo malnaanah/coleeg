@@ -3,14 +3,14 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
 
 ## How to install Coleeg to your google drive
 
-  1- Make a new directory called "coleeg" on your google drive
-  2- Copy Coleeg version folder, i.e. "ver1", inside the folder "coleeg'
+  * Make a new directory called "coleeg" on your google drive
+  * Copy Coleeg version folder, i.e. "ver1", inside the folder "coleeg'
 
 ## How to install dataset files on your Google drive
 
   * Physionet
-    1- Go to the link: https://physionet.org/static/published-projects/eegmmidb/eeg-motor-movementimagery-dataset-1.0.0.zip
-    2- Upload dataset file to your google drive inside the folder "datasets"
+    ** Go to the link: https://physionet.org/static/published-projects/eegmmidb/eeg-motor-movementimagery-dataset-1.0.0.zip
+    ** Upload dataset file to your google drive inside the folder "datasets"
 
   * BCI competetion IV-2a  
     1- Got to the link: http://www.bbci.de/competition/iv/#download
