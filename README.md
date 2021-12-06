@@ -32,4 +32,5 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
 ## Team:
 
 Mahmoud Alnaanah (malnaanah@gmail.com)
+
 Moutz Wahdow (m.wahdow@gmail.com)
