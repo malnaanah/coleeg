@@ -28,7 +28,12 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
     5- Download the labels file from the link: http://www.bbci.de/competition/iv/results/#labels
     
     6- Upload dataset and labels files to your google drive inside the folder "datasets"
-    
+
+
+## How to use Coleeg
+* Open Colab notebook "file Coleeg1_App.ipynb"  from the folder "coleeg/ver1"
+* The notebook file is self explanatory and comments have been provided where necessary
+
 ## Team:
 
 Mahmoud Alnaanah (malnaanah@gmail.com)
