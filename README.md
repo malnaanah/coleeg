@@ -31,7 +31,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
 
 
 ## How to use Coleeg
-* Open Colab notebook "file Coleeg1_App.ipynb"  from the folder "coleeg/ver1"
+* Open Colab notebook file "Coleeg1_App.ipynb"  from the folder "coleeg/ver1"
 * The notebook file is self explanatory and comments have been provided where necessary
 
 ## Team:
