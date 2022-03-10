@@ -5,7 +5,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
 
   1- Make a new directory called "coleeg" on your google drive
   
-  2- Copy Coleeg version folder, i.e. "ver1", inside the folder "coleeg'
+  2- Copy Coleeg version folder, i.e. "ver1" or "ver2", inside the folder "coleeg'
 
 ## How to install dataset files on your Google drive
 
@@ -17,7 +17,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
 
   * BCI competetion IV-2a  
 
-    1- Got to the link: http://www.bbci.de/competition/iv/#download
+    1- Got to the link: http://www.bbci.de/competition/iv/#download    
     
     2- Enter your name and email address and press "I Agree"
     
@@ -28,7 +28,8 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
     5- Download the labels file from the link: http://www.bbci.de/competition/iv/results/#labels
     
     6- Upload dataset and labels files to your google drive inside the folder "datasets"
-
+    
+  * TTK dataset is a private dataset and (up to now) not available publicly.
 
 ## How to use Coleeg
 * Open Colab notebook file "Coleeg1_App.ipynb"  from the folder "coleeg/ver1"
