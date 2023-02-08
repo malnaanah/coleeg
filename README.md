@@ -3,9 +3,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
 
 ## How to install Coleeg to your google drive
 
-  1- Make a new directory called "coleeg" on your google drive
-  
-  2- Copy Coleeg version folder, i.e. "ver1" or "ver2", inside the folder "coleeg'
+  1- Make a new directory called "coleeg" on your google drive and copy the version folder (verx) in it.
 
 ## How to install dataset files on your Google drive
 
@@ -32,7 +30,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
   * TTK dataset is a private dataset and (up to now) not available publicly.
 
 ## How to use Coleeg
-* Open Colab notebook file "Coleeg1_App.ipynb"  from the folder "coleeg/ver1"
+* Open Colab notebook from the version folder
 * The notebook file is self explanatory and comments have been provided where necessary
 
 ## Team:
