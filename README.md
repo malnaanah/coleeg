@@ -14,9 +14,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
   
   6- To use Colab online, choose Connect>Connect to a hosted runtime.
   
-  7- To use your local machine, download Coleeg folder to your home (i.e. personal) folder.
-  
-     Local run time was tested in Linux (kubuntu 22.04).
+  7- To use your local machine, download Coleeg folder to your home (i.e. personal) folder. Local run time was tested in Linux (kubuntu 22.04).
      
   8- Run Colab_local script using the command (bash Colab_local) and copy the generated url.
   
