@@ -2,7 +2,7 @@
 Coleeg is an open-source initiative for facilitating EEG signal classification using neural networks.
 
 ## How to install Coleeg to your google drive
-  1- From Coleeg github site (https://github.com/malnaanah/coleeg) download Coleeg3.1.zip and extract it.
+  1- Download Coleeg3.1.zip and extract it.
   
   2- Copy Coleeg3.1 folder to the root of your google drive.
   
