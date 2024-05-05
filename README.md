@@ -16,7 +16,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
   
   7- To use your local machine, download Coleeg folder to your home (i.e. personal) folder. Local run time was tested in Linux (kubuntu 22.04).
      
-  8- Run Colab_local script using the command (bash Colab_local) and copy the generated url.
+  8- Run Colab_local script using the command (bash Colab_Local) and copy the generated url.
   
   9- Run RunColeeg.ipynb from google drive (not the the one on your home folder).
   
