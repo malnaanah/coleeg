@@ -6,7 +6,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
   
   2- Copy Coleeg3.1 folder to the root of your google drive.
   
-  3- Run the Colab notebook named RunColeeg.ipynb which is inside Coleeg3.1 folder.
+  3- Open RunColeeg.ipynb which is inside Coleeg3.1 folder.
   
   4- Grant permissions for the notebook to enable its access your google drive.
   
