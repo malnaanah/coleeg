@@ -13,16 +13,17 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
   5- The data needed for Coleeg will be located in the directory ColeegData in the root of your google drive.
   
   6- To use Colab online, choose Connect>Connect to a hosted runtime.
+
   
   7- To use your local machine, copy Coleeg3.2 folder to your home (i.e. personal) folder.
+  
+    Local runtime was tested in Linux (Kubuntu 22.04)
      
   8- Run Colab_local script using the command (bash Colab_Local) and copy the generated url.
   
   9- Run RunColeeg.ipynb from google drive (not the the one on your home folder).
   
   10- Choose Connect>Connect to a local runtime, then paste the url and select connect.
-
-  11- Local runtime was tested in Linux (Kubuntu 22.04)
 
 ## Team:
 
