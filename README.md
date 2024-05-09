@@ -2,11 +2,11 @@
 Coleeg is an open-source initiative for facilitating EEG signal classification using neural networks.
 
 ## How to install Coleeg to your google drive
-  1- Download Coleeg3.2.zip and extract it.
+  1- Download Coleeg4.zip and extract it.
   
-  2- Copy Coleeg3.2 folder to the root of your google drive.
+  2- Copy Coleeg4 folder to the root of your google drive.
   
-  3- Open RunColeeg.ipynb which is inside Coleeg3.2 folder.
+  3- Open RunColeeg.ipynb which is inside Coleeg4 folder.
   
   4- Grant permissions for the notebook to enable its access your google drive.
   
@@ -15,7 +15,7 @@ Coleeg is an open-source initiative for facilitating EEG signal classification u
   6- To use Colab online, choose Connect>Connect to a hosted runtime.
 
   
-  7- To use your local machine, copy Coleeg3.2 folder to your home (i.e. personal) folder.
+  7- To use your local machine, copy Coleeg4 folder to your home (i.e. personal) folder.
   
   *  Local runtime was tested in Linux (Kubuntu 22.04)
      
