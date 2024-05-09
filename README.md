@@ -1,5 +1,5 @@
 # coleeg
-Coleeg is an open-source initiative for facilitating EEG signal classification using neural networks.
+Coleeg stands for _**Col**laboration on **EEG** signal classification_, and it is an open-source initiative for facilitating collaboration on EEG signal classification using neural networks.
 
 ## How to install Coleeg to your google drive
   1- Download Coleeg4.zip and extract it.
