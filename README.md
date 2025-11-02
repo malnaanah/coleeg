@@ -4,7 +4,7 @@ Coleeg stands for _**Col**laboration on **EEG** signal classification_, and it i
 ## Introduction video about how to install and run Coleeg (Older version 4.1) using Google Colab or local machine.
   https://www.youtube.com/watch?v=dcMbNkRM28Q
   
-## How to install Coleeg to your google drive
+## How to install Coleeg to your google drive (Example for Coleeg_5.0)
 
   1- Download Coleeg_5.0.zip and extract it.
   
