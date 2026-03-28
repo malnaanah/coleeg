@@ -28,8 +28,7 @@ Coleeg stands for _**Col**laboration on **EEG** signal classification_, and it i
   
   10- Choose Connect>Connect to a local runtime, then paste the url and select connect.
 
-## Team:
+## For more information and support:
 
 Mahmoud Alnaanah (malnaanah@gmail.com)
 
-Moutz Wahdow (m.wahdow@gmail.com)
